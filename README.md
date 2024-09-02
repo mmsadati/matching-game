@@ -25,8 +25,8 @@ Make sure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/memory-game.git
-   cd memory-game
+   git clone https://github.com/mmsadati/matching-game
+   cd matching-game
 
    ```
 
